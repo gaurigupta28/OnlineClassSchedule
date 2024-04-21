@@ -2,12 +2,16 @@
 Online Class Schedule
 ## Register page
 <img src="Images/Screenshot 2024-04-21 214523.png" > 
-<img src="ProjectImage/home2.png" > 
+## Login Page
+<img src="Images/Screenshot 2024-04-21 214537.png" > 
 
-## About
-<img src="ProjectImage/about.png"> 
+## Subject page
+<img src="Images/Screenshot 2024-04-21 214614.png"> 
 
-## Service
-<img src="ProjectImage/services.png"> 
+## Class Schedule
+<img src="Images/Screenshot 2024-04-21 214634.png"> 
 
-Simple responsive website using Html and CSS.
+## Cart Page 
+
+<img scr="Images/Screenshot 2024-04-21 214659.png">
+
