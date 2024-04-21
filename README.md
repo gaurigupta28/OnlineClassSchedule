@@ -31,6 +31,18 @@ Online Class Schedule
   * Users can review the classes in their cart, including details such as class date, time, and instructor.
   * They may have the option to remove classes from the cart or proceed to checkout.
   * Before checkout, users may be prompted to confirm their selections and provide any additional information (e.g., payment details).
-<img src="Images/Screenshot 2024-04-21 214659.png"> 
+<img src="Images/Screenshot 2024-04-21 214659.png">
+
+## Database Design
+
+  * The application requires a database to store user information, subjects, class schedules, and cart items.
+  * Tables such as Users, Subjects, Classes, and Cart are created to store relevant data.
+  * Relationships between tables (e.g., one-to-many between Users and Cart) are established using foreign keys.
+  * Stored procedures can be implemented for tasks such as user authentication, retrieving subject information, adding/removing items from the cart, etc.
+## Dynamic Data:
+
+  *  The application retrieves and displays data dynamically from the database based on user interactions and queries.
+  * Server-side scripting languages such as C# (in ASP.NET) or PHP can be used to interact with the database and generate dynamic content.
+  * User sessions are managed to maintain state across different pages and track user actions (e.g., login status, cart items).
 
 
