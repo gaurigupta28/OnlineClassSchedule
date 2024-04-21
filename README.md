@@ -13,5 +13,6 @@ Online Class Schedule
 <img src="Images/Screenshot 2024-04-21 214634.png"> 
 
 ## Cart Page 
-<img scr="Images/Screenshot 2024-04-21 214659.png">
+<img src="Images/Screenshot 2024-04-21 214659.png"> 
+
 
