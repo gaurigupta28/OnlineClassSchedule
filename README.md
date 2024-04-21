@@ -42,7 +42,7 @@ Online Class Schedule
 ## Dynamic Data:
 
   *  The application retrieves and displays data dynamically from the database based on user interactions and queries.
-  * Server-side scripting languages such as C# (in ASP.NET) or PHP can be used to interact with the database and generate dynamic content.
+  * Server-side scripting languages such as C# (in ASP.NET) can be used to interact with the database and generate dynamic content.
   * User sessions are managed to maintain state across different pages and track user actions (e.g., login status, cart items).
 
 
