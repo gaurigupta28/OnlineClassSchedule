@@ -2,7 +2,8 @@
 Online Class Schedule
 ## Register page
 <img src="Images/Screenshot 2024-04-21 214523.png" > 
-## Login Page
+
+ ## Login page
 <img src="Images/Screenshot 2024-04-21 214537.png" > 
 
 ## Subject page
@@ -12,6 +13,5 @@ Online Class Schedule
 <img src="Images/Screenshot 2024-04-21 214634.png"> 
 
 ## Cart Page 
-
 <img scr="Images/Screenshot 2024-04-21 214659.png">
 
