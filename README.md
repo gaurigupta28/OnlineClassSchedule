@@ -1,5 +1,5 @@
 # Online Class Schedule
-Online Class Schedule
+An online class schedule application built using HTML, CSS, ASP.NET, C#, SQL Server, and JavaScript provides a comprehensive platform for users to register, log in, browse available classes, schedule classes, manage their bookings, and view their cart.
 ## Register page
  * This page allows new users to create an account by providing their details such as username, email, and password.
  * Upon submission, the entered information is validated to ensure it meets the required criteria (e.g., valid email format, unique username).
